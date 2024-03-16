@@ -6,7 +6,7 @@ Este es un archivo temporal.
 """
 """
 Aplicación 03: Suma de n números anteriores
-Enunciado: obtener la suma de los primeros N número 
+Enunciado: obtener la suma de los primeros N número
 natural positivo.
 
 Análisis: Para la solución de este problema,
@@ -20,6 +20,7 @@ sum = 0
 
 while n >=0:
     sum += n
+
     n -= 1
 
-print(sum)    
+print(sum)
